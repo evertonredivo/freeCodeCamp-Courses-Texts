@@ -7,8 +7,11 @@ Variables can be passed in to a template literal by surrounding the variable wit
 For example:
 
 const name = "Naomi";
+
 const templateLiteral = `Hello, my name is ${name}~!`;
+
 console.log(templateLiteral);
+
 The console will show the string "Hello, my name is Naomi~!".
 
 Replace your concatenated string in the querySelector with a template literal – be sure to keep the space between your targetId variable and .input-container.
