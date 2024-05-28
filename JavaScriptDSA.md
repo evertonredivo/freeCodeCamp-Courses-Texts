@@ -1,7 +1,8 @@
 # JavaScript Algorithms and Data Structures
 
 Step 41
-JavaScript has a feature called template literals, which allow you to interpolate variables directly within a string. Template literals are denoted with backticks ``, as opposed to single or double quotes.
+
+JavaScript has a feature called <strong>template literals</strong>, which allow you to interpolate variables directly within a string. Template literals are denoted with backticks ``, as opposed to single or double quotes.
 Variables can be passed in to a template literal by surrounding the variable with ${} – the value of the variable will be inserted into the string.
 
 For example:
